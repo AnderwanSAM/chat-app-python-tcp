@@ -1,0 +1,9 @@
+- to fix  1 : 
+Si Utilisateur a specifie que l'utilisateur b est sa cible, alors l'utilisateur b recevra les messages de l'utilisateur a. 
+Cependant si l'utilisateur b ne specifie pas que a est sa cible, celui ci ne recvra pas ses messages 
+- to add : 
+Accepter le choix d'envoyer un message a tous ? (garder broadcast ? )
+- maybe : 
+
+
+Ajoute ce que tu penses
